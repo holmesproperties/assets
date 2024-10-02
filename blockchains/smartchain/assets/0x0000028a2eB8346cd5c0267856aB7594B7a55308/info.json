@@ -1,21 +1,21 @@
 {
-    "name": "Zeta",
+    "name": "HOLMES PROPERTIES TOKEN",
     "type": "BEP20",
-    "symbol": "ZETA",
+    "symbol": "HPT",
     "decimals": 18,
-    "website": "https://www.zetachain.com/",
-    "description": "ZetaChain is a public, decentralized blockchain and smart contract platform that enables message passing and value transfer between any blockchain.",
-    "explorer": "https://bscscan.com/token/0x0000028a2eb8346cd5c0267856ab7594b7a55308",
+    "website": "https://www.holmesproperties.co",
+    "description": "Holmes Properties Token (HPT) is a public decentralized platform built on the Binance Smart Chain, enabling seamless property transactions and value transfers across various real estate assets. Through the integration of smart contracts, Holmes facilitates secure and transparent interactions between users, allowing for the tokenization of properties and efficient management of property-related activities on the blockchain.",
+    "explorer": "https://bscscan.com/token/0x2bba0d7889c932eda550dca34208e5235d9dc020",
     "status": "active",
-    "id": "0x0000028a2eB8346cd5c0267856aB7594B7a55308",
+    "id": "0x2bba0d7889c932eda550dca34208e5235d9dc020",
     "links": [
         {
             "name": "twitter",
-            "url": "https://twitter.com/zetablockchain"
+            "url": "https://twitter.com/holmerestate"
         },
         {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/zetachain/"
+            "name": "github",
+            "url": "https://github.com/holmesproperties/"
         }
     ]
 } 
